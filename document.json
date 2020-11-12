@@ -1,0 +1,40 @@
+{
+  "name": "Open City Model (OCM) Dataset",
+  "description": "Open City Model is an initiative to provide cityGML data for all the buildings in the United States. By using other open datasets in conjunction with our own code and algorithms it is our goal to provide 3D geometries for every US building.",
+  "logo": "_images/dataset.png",
+  "has_supporting_content": false,
+  "stack_id": "ocm-dataset",
+  "type": "dataset-s3",
+  "categories": [
+    "General",
+    "Housing"
+  ],
+  "platform": "Kubernetes",
+  "cover": "cover.md",
+  "commands": [],
+  "display": [
+    {
+      "name": "Developer Dashboard",
+      "url": "##DNS.host##/codeserver",
+      "enabled": true
+    }
+  ],
+  "buckets": [
+    "opencitymodel"
+  ],
+  "meta": {
+    "Install time": [
+      "2 minutes"
+    ],
+    "Type": [
+      "S3",
+      "Dataset"
+    ],
+    "Tag": [ "S3" ],
+    "categories": [
+      "General",
+      "Housing"
+    ]
+  },
+  "isDocumentSaved": true
+}
