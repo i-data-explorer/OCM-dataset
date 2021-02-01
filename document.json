@@ -1,7 +1,7 @@
 {
   "name": "Open City Model (OCM) Dataset",
   "description": "Open City Model is an initiative to provide cityGML data for all the buildings in the United States. By using other open datasets in conjunction with our own code and algorithms it is our goal to provide 3D geometries for every US building.",
-  "logo": "_images/dataset.png",
+  "logo": "_images/dataset-1.png",
   "has_supporting_content": false,
   "de_catalog_id": "ocm-dataset",
   "categories": [
